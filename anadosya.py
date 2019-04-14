@@ -1,1 +1,1 @@
-print(topla(7,8))
+print(topla(5,8))
